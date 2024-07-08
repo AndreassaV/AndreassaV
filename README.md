@@ -11,8 +11,8 @@ Communication: I am proactive and enjoy engaging with others in community chat f
 Validator Nodes
 Below are explorers showcasing my validator nodes:
 
-[Ping.pub](https://testnet.ping.pub/haqq/staking/haqqvaloper1j0rvswyq9z68lgkag0jw599vawpkk28lycsvg3)
-[SIDE](https://holesky.eigenlayer.xyz/operator/0xdAa3768357FCE6ccD6B50329831d741df946B917)
-[XfiScan](https://test.xfiscan.com/validators/mxvaloper1syf8dx7klyhytq0epw3u53ar43gavn7enxwvsn)
-[Tangle](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestnet-rpc.tangle.tools#/staking)
+* [Ping.pub](https://testnet.ping.pub/haqq/staking/haqqvaloper1j0rvswyq9z68lgkag0jw599vawpkk28lycsvg3)
+* [SIDE](https://holesky.eigenlayer.xyz/operator/0xdAa3768357FCE6ccD6B50329831d741df946B917)
+* [XfiScan](https://test.xfiscan.com/validators/mxvaloper1syf8dx7klyhytq0epw3u53ar43gavn7enxwvsn)
+* [Tangle](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestnet-rpc.tangle.tools#/staking)
 
