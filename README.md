@@ -1,5 +1,5 @@
-About Me
-Good afternoon! My name is [Andreassa](https://x.com/VorobeyAnd), and I am interested in participating as a node operator \ validator in your project. I bring a wealth of experience from participating in dozens of projects across various ecosystems and purposes.
+# About Me
+👋 Hi! My name is [Andreassa](https://x.com/VorobeyAnd), and I am interested in participating as a node operator \ validator in your project. I bring a wealth of experience from participating in dozens of projects across various ecosystems and purposes.
 
 ### Technical Expertise
 * Scripting: I specialize in writing scripts in lightweight, non-complex languages. These scripts include tools for tracking my validators and sending real-time notifications to Telegram via bots. I develop and maintain these tools independently, ensuring quick detection and resolution of any operational issues.
