@@ -1,12 +1,12 @@
 About Me
 Good afternoon! My name is [Andreassa](https://x.com/VorobeyAnd), and I am interested in participating as a node operator \ validator in your project. I bring a wealth of experience from participating in dozens of projects across various ecosystems and purposes.
 
-Technical Expertise
-Scripting: I specialize in writing scripts in lightweight, non-complex languages. These scripts include tools for tracking my validators and sending real-time notifications to Telegram via bots. I develop and maintain these tools independently, ensuring quick detection and resolution of any operational issues.
+### Technical Expertise
+* Scripting: I specialize in writing scripts in lightweight, non-complex languages. These scripts include tools for tracking my validators and sending real-time notifications to Telegram via bots. I develop and maintain these tools independently, ensuring quick detection and resolution of any operational issues.
 
-Problem Solving: With extensive experience, I am adept at solving most problems independently. When needed, I provide detailed feedback to the team to improve processes and enhance system reliability.
+* Problem Solving: With extensive experience, I am adept at solving most problems independently. When needed, I provide detailed feedback to the team to improve processes and enhance system reliability.
 
-Community Engagement
+### Community Engagement
 Communication: I am proactive and enjoy engaging with others in community chat forums. I find it rewarding to assist others, contributing to the growth and popularity of projects through active participation and support.
 Validator Nodes
 Below are explorers showcasing my validator nodes:
@@ -23,5 +23,12 @@ Below are explorers showcasing my validator nodes:
 * [Socotra](https://socotra.mcnscan.io/chain/Dwu1n4o2Gp2tLcLoWjoL5sJaJ5doc4kBoew3Knf7qpmJenwcf)
 * [Genesis](https://genesis.mcnscan.io/chain/ViCaVM1X2g89sv9uT7cJDC5CmuADfG4Uz5zEaBaCrYUAPoAtk)
 * [Ritual](https://etherscan.io/tx/0x30fdc5beb52d72c28a62a65e639107a211f14a8f053d29c6b8e7ebb631f88e37)
-* an7MC5fomKniDCivKWciffv3wjXvmkJnuJmt8EBPvKynX6AAE in https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.testnet.analog.one#/staking
-* 5GxsZ4TNR5tpPmjn1ch1NAANp9g2RTLTw3TnDGgdxUVxh7Vh in https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestnet-rpc.tangle.tools#/staking
+
+Also:
+an7MC5fomKniDCivKWciffv3wjXvmkJnuJmt8EBPvKynX6AAE in https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.testnet.analog.one#/staking
+
+![](https://github.com/AndreassaV/AndreassaV/blob/main/res/photos/1.png?raw=true)
+
+5GxsZ4TNR5tpPmjn1ch1NAANp9g2RTLTw3TnDGgdxUVxh7Vh in https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestnet-rpc.tangle.tools#/staking
+
+![](https://github.com/AndreassaV/AndreassaV/blob/main/res/photos/2.png?raw=true)
