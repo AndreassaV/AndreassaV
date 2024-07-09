@@ -18,7 +18,7 @@ Below are explorers showcasing my validator nodes:
 * [Juneo](https://genesis.mcnscan.io/chain/ViCaVM1X2g89sv9uT7cJDC5CmuADfG4Uz5zEaBaCrYUAPoAtk)
 * [Ritual](https://etherscan.io/tx/0x30fdc5beb52d72c28a62a65e639107a211f14a8f053d29c6b8e7ebb631f88e37)
 * [Nillion](https://testnet.nillion.explorers.guru/validator/nillionvaloper1l8xpaqlwez7kf402xxhfa49q3n2hqxug484ree)
-* [CrossFi](https://test.xfiscan.com/validators/mxvaloper1syf8dx7klyhytq0epw3u53ar43gavn7enxwvsn
+* [CrossFi](https://test.xfiscan.com/validators/mxvaloper1syf8dx7klyhytq0epw3u53ar43gavn7enxwvsn)
 * [EigenLayer](https://holesky.eigenlayer.xyz/operator/0xdAa3768357FCE6ccD6B50329831d741df946B917)
 * [BabylonChain](https://github.com/babylonchain/networks/pull/294)
 * [Tangle](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestnet-rpc.tangle.tools#/staking) [search 5GxsZ4TNR5tpPmjn1ch1NAANp9g2RTLTw3TnDGgdxUVxh7Vh]
