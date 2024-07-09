@@ -11,7 +11,7 @@ Communication: I am proactive and enjoy engaging with others in community chat f
 Validator Nodes
 Below are explorers showcasing my validator nodes:
 
-* [0G](https://testnet.0g.explorers.guru/validator/0gvaloper1scaxd7hnf2pk73vxvxh82447j6j5zfvfum5fgh)
+* [0G](https://testnet.0g.explorers.guru/validator/0gvaloper1scaxd7hnf2pk73vxvxh82447j6j5zfvfum5fgh) (btw, you can check out my [guide](https://medium.com/@sweezyloop/setting-up-a-0g-node-a-step-by-step-guide-b00468af2e28))
 * [Side](https://testnet.side.explorers.guru/validator/bcvaloper1xdxxvqsp0jjnmfzle5n0r6y9pf7mpueyvxg6pe)
 * [LAVA](https://lava.explorers.guru/validator/lava@valoper1urxpzfv2llsm70erpfh8v3mjcksxujhgr5q9sz)
 * [Haqq](https://testnet.ping.pub/haqq/staking/haqqvaloper1j0rvswyq9z68lgkag0jw599vawpkk28lycsvg3)
