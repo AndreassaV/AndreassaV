@@ -12,9 +12,9 @@ Validator Nodes
 Below are explorers showcasing my validator nodes:
 
 * [0G](https://testnet.0g.explorers.guru/validator/0gvaloper1scaxd7hnf2pk73vxvxh82447j6j5zfvfum5fgh)
+* [Side](https://testnet.side.explorers.guru/validator/bcvaloper1xdxxvqsp0jjnmfzle5n0r6y9pf7mpueyvxg6pe)
 * [LAVA](https://lava.explorers.guru/validator/lava@valoper1urxpzfv2llsm70erpfh8v3mjcksxujhgr5q9sz)
 * [Haqq](https://testnet.ping.pub/haqq/staking/haqqvaloper1j0rvswyq9z68lgkag0jw599vawpkk28lycsvg3)
-* [Side](https://testnet.side.explorers.guru/validator/bcvaloper1xdxxvqsp0jjnmfzle5n0r6y9pf7mpueyvxg6pe)
 * [Juneo](https://genesis.mcnscan.io/chain/ViCaVM1X2g89sv9uT7cJDC5CmuADfG4Uz5zEaBaCrYUAPoAtk)
 * [Ritual](https://etherscan.io/tx/0x30fdc5beb52d72c28a62a65e639107a211f14a8f053d29c6b8e7ebb631f88e37)
 * [Nillion](https://testnet.nillion.explorers.guru/validator/nillionvaloper1l8xpaqlwez7kf402xxhfa49q3n2hqxug484ree)
