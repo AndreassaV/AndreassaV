@@ -21,6 +21,7 @@ Below are explorers showcasing my validator nodes:
 * [CrossFi](https://test.xfiscan.com/validators/mxvaloper1syf8dx7klyhytq0epw3u53ar43gavn7enxwvsn)
 * [EigenLayer](https://holesky.eigenlayer.xyz/operator/0xdAa3768357FCE6ccD6B50329831d741df946B917)
 * [BabylonChain](https://github.com/babylonchain/networks/pull/294)
+* [Mantra](https://testnet.mantra.explorers.guru/validator/mantravaloper15tu2fst3kwsjx9pf48u59kh8tujfpgh6sr2424)
 * [Tangle](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftestnet-rpc.tangle.tools#/staking) [search 5GxsZ4TNR5tpPmjn1ch1NAANp9g2RTLTw3TnDGgdxUVxh7Vh]
 * [Analog](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.testnet.analog.one#/staking) [search an7MC5fomKniDCivKWciffv3wjXvmkJnuJmt8EBPvKynX6AAE]
 
